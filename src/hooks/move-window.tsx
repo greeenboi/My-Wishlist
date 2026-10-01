@@ -1,5 +1,5 @@
-import { moveWindow, Position } from '@tauri-apps/plugin-positioner';
-// when using `"withGlobalTauri": true`, you may use
-// const { moveWindow, Position } = window.__TAURI__.positioner;
+import { moveWindow, Position } from "@tauri-apps/plugin-positioner";
 
-export const hookWindow = moveWindow(Position.BottomRight);
+export function moveToBottomRight(): Promise<void> {
+  return moveWindow(Position.BottomRight);
+}

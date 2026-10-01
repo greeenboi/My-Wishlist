@@ -12,8 +12,10 @@
   "app": {
     "windows": [
       {
-        "width": 800,
-        "height": 600
+        "title": "My Wishlist",
+        "width": 420,
+        "height": 640,
+        "decorations": false
       }
     ],
     "security": {
