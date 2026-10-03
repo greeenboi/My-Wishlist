@@ -1,7 +1,22 @@
-# Tauri + React + Typescript
+# My Wishlist
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+A simple application to add your wishlist and then track how long before you can get it based on a monthly budget
 
-## Recommended IDE Setup
+## Downloads
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+
+> <comingsoon>
+
+### Stack
+
+Built with `Tauri`, `Typescript`, `DaisyUI` and `SQLITE`.
+
+### Contributions
+
+I am open to any issues / PRs you make but i will get to them on my own time, no official release schedule.
+
+
+
+---
+
+With love from [greeenboi](https://suvan.page)
